@@ -1,0 +1,8 @@
+.image-section {
+  display: flex;
+}
+
+.image {
+  max-width: 15rem;
+  max-height: 10rem;
+}
